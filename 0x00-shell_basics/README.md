@@ -3,3 +3,4 @@ ls lists the content of the present working directory
 cd takes me home
 ls -l lists filelong
 ls -al lists even hidden files
+ls -n lists users in numbers bt long
