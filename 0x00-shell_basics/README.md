@@ -5,3 +5,4 @@ ls -l lists filelong
 ls -al lists even hidden files
 ls -n -a -l lists users in numbers bt long
 mkdir /tmp/file mane cfreates fiel
+mv moves
